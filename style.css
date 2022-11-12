@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Sono&display=swap');
+body{
+    background: url(back.png);
+    background-size: cover;
+    background-position:center;
+    background-repeat: no-repeat;
+    /* width: 100%; */
+    height: 100%;
+    font-family: 'Sono', sans-serif;
+    padding: 10px;
+}
+div{
+    background: rgb(000,20,9);
+    color: #fff;
+    padding: 3px;
+    margin: 10px;
+    padding-left: 15px;
+    border-radius: 5px;
+    text-transform: capitalize;
+}
+.greenback{
+    background: rgb(75, 11, 1);
+}
+.greenback h1{
+    text-align: center;
+}
+div h1{
+    text-align: center;
+}
+#back{
+    background:rgb(75, 11, 1);
+    color: fff;
+}
+.content1{
+    background: rgb(75, 11, 1);
+    margin: 20px 0px 0px 0px ;
+    padding: 15px 15px 15px 15px;
+    border: 2px solid #fff;
+    border-radius: 50px;
+    box-shadow: 0 0 10px 5px grey;
+}
+
+
+.lorem{
+    background: rgb(75, 11, 1);
+    margin: 20px 0px 0px 0px ;
+    padding: 15px 15px 15px 15px;
+    border: 2px outset #fff;
+    overflow: scroll;
+    font-style: italic;
+    overflow-x: hidden;
+    height: 300px;
+    color: #fff;
+    font-size: 14px;
+    -webkit-box-shadow: -16px 18px 16px -12px rgba(0,0,0,0.75);
+    -moz-box-shadow: -16px 18px 16px -12px rgba(0,0,0,0.75);
+    box-shadow: -16px 18px 16px -12px rgba(0,0,0,0.75);
+    /* text-indent: 20px; */
+}
+.lorem li{
+    padding: 10px;
+}
+div{
+    opacity: 0.9;
+}
+div:hover{
+    opacity: 1;
+}
