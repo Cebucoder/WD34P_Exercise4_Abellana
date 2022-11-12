@@ -38,6 +38,8 @@ div h1{
     border: 2px solid #fff;
     border-radius: 50px;
     box-shadow: 0 0 10px 5px grey;
+    text-align: center;
+    font-size: 20px;
 }
 
 
